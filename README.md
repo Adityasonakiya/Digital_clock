@@ -2,6 +2,7 @@
 It's a digital clock which is running in an infinite loop.
 Used Tkinter for GUI building.
 It's a 12 hour Digital clock.
+
 STEPS -->
 Import the package. We are using the system’s time. To retrieve the system’s time, import strftime function.
 Define a window screen. You can’t resize the window screen. After that, set a title for the window screen. It’s optional. Mine is "CLOCK".
